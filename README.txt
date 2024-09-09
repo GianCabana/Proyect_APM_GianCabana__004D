@@ -1,0 +1,1 @@
+Profe para el slide tiene que instalar el swiper   codigo = npm install swiper
